@@ -1,1 +1,4 @@
-# Fundzin-Blockchain (Ganache + Brownie Local Deployment)
+# Fundzin
+**Powering UPI Transactions through the Blockchain** 🕸️
+
+<hr>
