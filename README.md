@@ -16,7 +16,7 @@ Requirements : [requirements.txt](https://github.com/Ansh-Sarkar/Fundzin-UPI-Via
 
 Backend Requirements : [requirements.txt](https://github.com/Ansh-Sarkar/Fundzin-UPI-Via-Blockchain/blob/main/Fundzin%20Backend/requirements.txt)
 
-In the future I plan to add modules to enable the setting up of custom ```Geth``` or ```Hyperledger Besu``` client and boot node configurations to facilitate the quick set up and support of a custom private blockchain network (preferably hosted on Azure or even locally) to facilitate the development process.
+In the future I plan to add modules to enable the setting up of custom ```Geth``` or ```Hyperledger Besu``` client and boot node configurations for quick set up and support of a custom private blockchain network (preferably hosted on Azure or even locally) to facilitate the development process.
 
 <hr>
 
