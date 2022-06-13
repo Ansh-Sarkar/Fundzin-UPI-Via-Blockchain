@@ -12,6 +12,6 @@ The problem with current blockchain solutions and blockchain wallets mainly lies
 
 This is what Fundzin aims to do. It is built on top of the Ethereum Standard with Smart Contracts written in Solidity. It can be integrated with a payments provider API (such as RazorPay) and customized to carry out the virtual transactions on the blockchain in parallel. It was primarily built as a module to be integrated with a donations platform.
 
-Requirements : https://github.com/Ansh-Sarkar/Fundzin-UPI-Via-Blockchain/blob/main/requirements.txt
+Requirements : [requirements.txt](https://github.com/Ansh-Sarkar/Fundzin-UPI-Via-Blockchain/blob/main/requirements.txt)
 
-Backend Requirements : https://github.com/Ansh-Sarkar/Fundzin-UPI-Via-Blockchain/blob/main/Fundzin%20Backend/requirements.txt
+Backend Requirements : [requirements.txt](https://github.com/Ansh-Sarkar/Fundzin-UPI-Via-Blockchain/blob/main/Fundzin%20Backend/requirements.txt)
