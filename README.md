@@ -10,4 +10,8 @@ Unified Payments Interface (UPI) is an instant real-time payment system develope
 
 The problem with current blockchain solutions and blockchain wallets mainly lies in their relatively steep learning curve as compared to solutions such as UPI. Knowledge about how blockchains work (atleast superficially) and about private and public keys are somewhat essential to ensure safety and proper understanding of blockchain solutions. But, what if a person could simply do a UPI transaction which would occur normally, while a virtual copy of the same transaction is done on the blockchain. This virtual copy is immutable (by virtue of the properties of a blockchain) and hence acts as a transparent source of proof related to public transaction details while maintaining and building on the simplicity and familiarity of people with UPI payments.
 
-This is what Fundzin aims to do. It is built on top of the Ethereum Standard with Smart Contracts written in Solidity. It can be integrated with a payments provider API (such as RazorPay) and customized to carry out the virtual transactions on the blockchain in parallel.
+This is what Fundzin aims to do. It is built on top of the Ethereum Standard with Smart Contracts written in Solidity. It can be integrated with a payments provider API (such as RazorPay) and customized to carry out the virtual transactions on the blockchain in parallel. It was primarily built as a module to be integrated with a donations platform.
+
+Requirements : https://github.com/Ansh-Sarkar/Fundzin-UPI-Via-Blockchain/blob/main/requirements.txt
+
+Backend Requirements : https://github.com/Ansh-Sarkar/Fundzin-UPI-Via-Blockchain/blob/main/Fundzin%20Backend/requirements.txt
